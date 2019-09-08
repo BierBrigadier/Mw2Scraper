@@ -67,5 +67,5 @@ def ParseFiles():
 while True:
     ParseFiles()
     writer.removeDuplicates()
-    print("Thanks John van Boxtel for creating this tool!\n")
+    print("Thanks Johnnie Justin for creating this tool!\n")
     time.sleep(60)
