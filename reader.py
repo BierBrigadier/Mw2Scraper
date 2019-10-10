@@ -50,8 +50,7 @@ def RemoveDuplicateFiles(file_list):
     if str(duplicates) != "-1":
         print("Removed: " + str(duplicates) + " duplicates")
 
-print("Tool created by John Van Boxtel")
-print("Goodluck have fun logging :)\n\n")
+print("Tool created by Justin.\n")
 file_list = enumFiles()
 RemoveDuplicateFiles(file_list)
 file_list = enumFiles()
